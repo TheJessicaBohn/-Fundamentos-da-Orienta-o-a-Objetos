@@ -20,6 +20,7 @@ Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/pla
     - Eventos: Ao mostrar a hora pode acontecer algo, ao despertar usuario pode desligar ou manter despertando, etc;
   - Um objeto sempre vai ser um tipo de referência, ou seja só armazena o endereço dos dados;
 - ## Classe e Objeto:
+  - As classes são moldes para os objetos;
 - ## Encapsulamento:
 - ## Abstração:
 - ## Herança:
