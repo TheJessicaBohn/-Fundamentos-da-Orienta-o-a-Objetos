@@ -44,8 +44,13 @@ Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/pla
 - ## Listas - Parte 3:
 
 ## Mão na massa
-- ## Introdução:
 - ## Iniciando o Contexto do conteúdo:
+  - Abra o Visual Studio code e crie uma nova pasta chamada Payments
+  - ```cd Payments```
+  - ```dotnet new console```
+  - ![image](https://github.com/TheJessicaBohn/-Fundamentos-da-Orienta-o-a-Objetos/assets/47541659/521a0604-bd2a-4c48-b714-24827387dcf2)
+  - Lembrando que no .NET 8 o **program.cs** vai aparecer dessa forma:
+  ![image](https://github.com/TheJessicaBohn/-Fundamentos-da-Orienta-o-a-Objetos/assets/47541659/3d0375e6-f328-4a49-9d4c-940b45e40c04)
 - ## Heranças e classes abstratas:
 - ## Trabalhando com listas:
 - ## Enumeradores:
