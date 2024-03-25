@@ -6,6 +6,18 @@ Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/pla
   - Valores por referência;
   - Atributos e métodos;
 - ## Objetos:
+  - Podemos ter sempre em mente um objeto físico do mundo real:
+  - Ex: Relógio, teclado, óculos;
+  - Porém alguns objetos são abstratos;
+  - Ex: pagamento; treinamento, faturamento;
+  - Em suma um objeto é composto de 3 itens:
+    - Propriedade;
+    - Métodos;
+    - Eventos;
+  - Ex: Objeto - Relógio;
+    - Propriedades: Altura, largura, profundidade, peso, cor, etc;
+    - Métodos: Mostrar a hora, Aterar a hora, Programar alarme, Tocar alarme, etc;
+    - Eventos: Ao mostrar a hora pode acontecer algo, ao despertar usuario pode desligar ou manter despertando, etc;
 - ## Classe e Objeto:
 - ## Encapsulamento:
 - ## Abstração:
