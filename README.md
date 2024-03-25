@@ -6,6 +6,18 @@ Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/pla
   - Valores por referência;
   - Atributos e métodos;
 - ## Objetos:
+  - Podemos ter sempre em mente um objeto físico do mundo real:
+  - Ex: Relógio, teclado, óculos;
+  - Porém alguns objetos são abstratos;
+  - Ex: pagamento; treinamento, faturamento;
+  - Em suma um objeto é composto de 3 itens:
+    - Propriedade;
+    - Métodos;
+    - Eventos;
+  - Ex: Objeto - Relógio;
+    - Propriedades: Altura, largura, profundidade, peso, cor, etc;
+    - Métodos: Mostrar a hora, Aterar a hora, Programar alarme, Tocar alarme, etc;
+    - Eventos: Ao mostrar a hora pode acontecer algo, ao despertar usuario pode desligar ou manter despertando, etc;
 - ## Classe e Objeto:
 - ## Encapsulamento:
 - ## Abstração:
@@ -32,8 +44,13 @@ Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/pla
 - ## Listas - Parte 3:
 
 ## Mão na massa
-- ## Introdução:
 - ## Iniciando o Contexto do conteúdo:
+  - Abra o Visual Studio code e crie uma nova pasta chamada Payments
+  - ```cd Payments```
+  - ```dotnet new console```
+  - ![image](https://github.com/TheJessicaBohn/-Fundamentos-da-Orienta-o-a-Objetos/assets/47541659/521a0604-bd2a-4c48-b714-24827387dcf2)
+  - Lembrando que no .NET 8 o **program.cs** vai aparecer dessa forma:
+  ![image](https://github.com/TheJessicaBohn/-Fundamentos-da-Orienta-o-a-Objetos/assets/47541659/3d0375e6-f328-4a49-9d4c-940b45e40c04)
 - ## Heranças e classes abstratas:
 - ## Trabalhando com listas:
 - ## Enumeradores:
