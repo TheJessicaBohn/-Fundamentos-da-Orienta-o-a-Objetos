@@ -2,6 +2,9 @@
 Inspirada no curso [ Fundamentos da Orientação a Objetos](https://balta.io/player/assistir/08317b43-0ff7-41e1-9d9e-736e5980f0d2), do balta.io
 ## Fundamentos:
 - ## Paradigma orientado a objetos:
+  - A ideia é trazer um problema da vida real, para programação;
+  - Valores por referência;
+  - Atributos e métodos;
 - ## Objetos:
 - ## Classe e Objeto:
 - ## Encapsulamento:
